@@ -15,8 +15,11 @@ kafka-console-consumer --bootstrap-server localhost:9092 --topic amex_topic
 card amount vendor
 
 #sample data
+
 visa 45000 apple
+
 amex 900 imax
+
 mastercard 678 bose
 
 #even producer
